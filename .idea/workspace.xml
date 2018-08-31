@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="529b09e1-d1d0-4f9a-b8ee-fdb7182b75f3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ng-multiselect-dropdown.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ng-multiselect-dropdown_v0.1.6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ng-package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lib-template.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish-package.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/sample-section.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/sample-section.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/select-section.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/select/multiple-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/select/multiple-demo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/select/single-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/select/single-demo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/hljs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code-viewer/code-viewer.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code-viewer/code-viewer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code-viewer/hljs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jest-global-mocks.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/click-outside.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/list-filter.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/ng-multiselect-dropdown.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/public_api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/test/helper.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/test/list-filter.pipe.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/test/multi-select.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/test/multi-select.component1.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ng-multiselect-dropdown/test/multi-select.component2.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setup-jest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="multiselect.component.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multiselect.component.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ng-multiselect-dropdown.umd.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bundles/ng-multiselect-dropdown.umd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="142" column="39" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#span#1;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#2;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ng-multiselect-dropdown.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fesm5/ng-multiselect-dropdown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="143" column="55" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>placeholder</find>
+      <find>filter.text</find>
+      <find>empty</find>
+      <find>onFilterTextChange</find>
+      <find>Object.defineProperty(MultiSelectComponent.prototype, &quot;data&quot;</find>
+      <find>const</find>
+      <find>_settings</find>
+      <find>onDeSelect</find>
+      <find>write</find>
+      <find>singleSelection</find>
+      <find>allowAddChoice</find>
+      <find>enterchange</find>
+      <find>conso</find>
+      <find>onSelectAll</find>
+      <find>onFilterChange</find>
+      <find>dist</find>
+      <find>main</find>
+      <find>dist-lib</find>
+      <find>enter</find>
+      <find>onenterKeyDown</find>
+      <find>onEnterKeydownChange</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/ng-multiselect-dropdown/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+        <option value="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.model.ts" />
+        <option value="$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="219" />
+    <option name="y" value="84" />
+    <option name="width" value="1579" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ng-multiselect-dropdown" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ng-multiselect-dropdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ng-multiselect-dropdown" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ng-multiselect-dropdown" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ng-multiselect-dropdown" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ng-multiselect-dropdown" type="462c0819:PsiDirectoryNode" />
+              <item name="fesm5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="529b09e1-d1d0-4f9a-b8ee-fdb7182b75f3" name="Default" comment="" />
+      <created>1534949859204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534949859204</updated>
+      <workItem from="1534949860478" duration="4391000" />
+      <workItem from="1535031713568" duration="2636000" />
+      <workItem from="1535116938383" duration="3649000" />
+      <workItem from="1535464101011" duration="1099000" />
+      <workItem from="1535550696239" duration="598000" />
+      <workItem from="1535635175716" duration="7336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20928000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="219" y="84" width="1579" height="1088" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006418" side_tool="true" weight="0.24823411" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49935815" weight="0.33602422" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20025674" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32996973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22593068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006418" side_tool="true" weight="0.24823411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49935815" visible="true" weight="0.24823411" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.model.ts" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="870">
+            <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish-package.md" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ng-package.json" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.model.ts" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="870">
+            <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish-package.md" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ng-package.json" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" />
+    <entry file="file://$PROJECT_DIR$/publish-package.md" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="870">
+            <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="15576" column="4" selection-start-line="15576" selection-start-column="4" selection-end-line="15576" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/list-filter.pipe.ts" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/public_api.ts" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/ng-multiselect-dropdown.module.ts" />
+    <entry file="file://$PROJECT_DIR$/ng-package.json" />
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/Screenshots/demo.gif" />
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts" />
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts" />
+    <entry file="file://$PROJECT_DIR$/src/code-viewer/code-viewer.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/click-outside.directive.ts" />
+    <entry file="file://$PROJECT_DIR$/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/publish-package.md" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.model.ts" />
+    <entry file="file://$PROJECT_DIR$/dist-lib/README.md" />
+    <entry file="file://$PROJECT_DIR$/dist-lib/fesm5/ng-multiselect-dropdown.js" />
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multi-select.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/ng-multiselect-dropdown/src/multiselect.component.ts" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/dist-lib/package.json" />
+    <entry file="file://$PROJECT_DIR$/dist-lib/public_api.d.ts" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="364">
+            <caret line="149" column="16" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiselect.model.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ng-multiselect-dropdown.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ng-multiselect-dropdown.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiselect.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bundles/ng-multiselect-dropdown.umd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="142" column="39" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#span#1;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#2;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fesm5/ng-multiselect-dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="143" column="55" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

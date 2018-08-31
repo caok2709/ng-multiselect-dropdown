@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { MultiSelectComponent } from './multiselect.component';
+export { NgMultiSelectDropDownModule } from './ng-multiselect-dropdown.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLW11bHRpc2VsZWN0LWRyb3Bkb3duLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLG9CQUFvQixFQUFFLE1BQU0seUJBQXlCLENBQUM7QUFDL0QsT0FBTyxFQUFFLDJCQUEyQixFQUFFLE1BQU0sa0NBQWtDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBNdWx0aVNlbGVjdENvbXBvbmVudCB9IGZyb20gJy4vbXVsdGlzZWxlY3QuY29tcG9uZW50JztcbmV4cG9ydCB7IE5nTXVsdGlTZWxlY3REcm9wRG93bk1vZHVsZSB9IGZyb20gJy4vbmctbXVsdGlzZWxlY3QtZHJvcGRvd24ubW9kdWxlJztcbiJdfQ==
