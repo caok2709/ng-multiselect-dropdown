@@ -129,19 +129,20 @@ var MultiSelectComponent = /** @class */ (function () {
      * @return {?}
      */
     function ($event) {
+        var _this = this;
         if (this.filter.text && this._settings.allowAddChoice) {
             if (this._data.filter(function (item) {
                 if (typeof item === 'string') {
                     return item === this.filter.text;
                 }
                 else {
-                    return item[this._settings.textField] === this.filter.text;
+                    return item[_this._settings.textField] === _this.filter.text;
                 }
             }).length === 0) {
                 this._data.push(new ListItem(this.filter.text));
                 var /** @type {?} */ dataArray_1 = [];
                 this._data.map(function (item) {
-                    dataArray_1.push(item[this._settings.textField]);
+                    dataArray_1.push(item[_this._settings.textField]);
                 });
                 this.onEnterChange.emit(dataArray_1);
             }
